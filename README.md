@@ -155,4 +155,4 @@ dictionary这张表不建议添加单词,这张表已经有4000+单词,往里添
 
 ![](./img/deleterow.png)
 
-反馈邮箱:xiaozhangfeedback@gaiml.com
+反馈邮箱:xiaozhangfeedback@gmail.com
